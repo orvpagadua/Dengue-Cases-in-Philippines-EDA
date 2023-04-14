@@ -14,7 +14,16 @@ Data set contains the recorded number of dengue cases per region of the Philippi
 
 Link to the dataset can be found [here](https://www.kaggle.com/datasets/vincentgupo/dengue-cases-in-the-philippines).
 
-# Methods
-# Results
-# Conclusions
-# Next Steps
+# What is the Current Trend of Dengue Cases in the Philippines?
+<img width="1047" alt="image" src="https://user-images.githubusercontent.com/122549893/231951438-62aedf08-d406-4f38-aa48-e9b28d5e278b.png">
+
+# Which Month/s have the Highest Number of Dengue Cases?
+<img width="1001" alt="image" src="https://user-images.githubusercontent.com/122549893/231951410-c8f179d6-08e9-4d3b-accc-3fed6b6163ad.png">
+
+# Which Regions have the Highest Average Number of Dengue Cases?
+<img width="998" alt="image" src="https://user-images.githubusercontent.com/122549893/231951367-fc645406-a5f3-4621-b688-2dcf70ee3cf4.png">
+
+
+# Which Island has the Highest Death-to-Case Ratio in the Philippines?
+
+<img width="1137" alt="image" src="https://user-images.githubusercontent.com/122549893/231951322-95fde1bb-83aa-4096-8ef3-a13e55a41cf0.png">

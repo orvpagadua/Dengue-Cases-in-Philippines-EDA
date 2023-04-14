@@ -34,4 +34,4 @@ Link to the dataset can be found [here](https://www.kaggle.com/datasets/vincentg
 # Final Report
 <img width="1734" alt="image" src="https://user-images.githubusercontent.com/122549893/231960524-b06ba085-e12c-4eff-bc39-b1b13f94cfd8.png">
 
-<img width="1137" alt="image" src="https://user-images.githubusercontent.com/122549893/231951322-95fde1bb-83aa-4096-8ef3-a13e55a41cf0.png">
+
